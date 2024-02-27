@@ -22,11 +22,7 @@ The Pet Name Generator leverages two powerful technologies:
 3. Run the application using `streamlit run main.py`.
 4. Access the application via your web browser at `http://localhost:8501`.
 
-## Demo
 
-Check out this short demo to see the Pet Name Generator in action:
-
-![Pet Name Generator Demo](https://github.com/aayushpandey8000/Pet_Name_Generator/blob/main/pet/pet_gif.gif)
 
 ## Contributing
 
